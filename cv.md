@@ -41,6 +41,7 @@ function lowerAndUpper(text){
 > Creating custom userscripts for the tampermonkey extension browsers, which expand and add new features to sites, my profile on greasyfork.org ([Profile on Greasyfork.org](https://greasyfork.org/en/users/99182-alekpet)).
 > 
 > Creating custom nodes for project ComfyUI, it generations images neural net on base Stable Diffusion.
+> 
 > I created a test site using Python and Flask (there is authorization, displays the weather and more), an example is **[here](https://alekpet.pythonanywhere.com/)**
 
 ## Educations:
