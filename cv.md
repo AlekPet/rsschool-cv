@@ -37,3 +37,13 @@ function lowerAndUpper(text){
 } 
 ```
 
+## Work Experience
+> Creating custom userscripts for the tampermonkey extension browsers, which expand and add new features to sites, my profile on greasyfork.org ([Profile on Greasyfork.org](https://greasyfork.org/en/users/99182-alekpet)).
+> 
+> Also creating custom nodes for project ComfyUI, it generations images neural net on base Stable Diffusion.
+
+## Educations:
+> Learning tutorials on the *w3schools.com, learn.javascript.ru, developer.mozilla.org, habr.com, youtube* and internet.
+
+## Languages:
+> My English level is A1, I read and understand technical information, trying to improve my knowledge :).
