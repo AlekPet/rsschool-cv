@@ -2,7 +2,7 @@
 > Aleksey Petrov
 
 ## Contacts Information:
-> **E-mail:** [alexepetrof@gmail.co](mailto:alexepetrof@gmail.com)
+> **E-mail:** [alexepetrof@gmail.com](mailto:alexepetrof@gmail.com)
 > 
 > **GitHub:** [My github](https://github.com/alekpet)
 >
