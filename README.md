@@ -1,2 +1,2 @@
-https://alekpet.github.io/rsschool-cv/cv
+https://alekpet.github.io/rsschool-cv/
 
